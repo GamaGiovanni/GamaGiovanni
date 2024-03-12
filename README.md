@@ -1,16 +1,13 @@
-### Hi there 👋
+# Giovanni Gama 👋
 
-<!--
-**GamaGiovanni/GamaGiovanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 😁
+Let me introduce myself, my name is Giovanni Gama and I am a Computer Engineering student at the State University of Campinas (UNICAMP), Brazil with passion for technology and resolution of complex problems. I am constantly trying to learn and improve my skills in order to develop my professional career, with a special look to practical and colaborative projects.
 
-Here are some ideas to get you started:
+## Locations 🗺️
+* São Paulo, Brazil
+* Rio de Janeiro, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🧑‍💻
+* Programming languages: Python, Java, C and a tiny bit of Javascript
+* Frameworks: Django, LibGDX and a little experience with Node
+* 
