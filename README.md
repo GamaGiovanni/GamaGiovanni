@@ -8,9 +8,9 @@ Let me introduce myself, my name is Giovanni Gama and I am a Computer Engineerin
 * Rio de Janeiro, Brazil
 
 ## Skills 🧑‍💻
-* Programming languages: Python, Java, C and a tiny bit of Javascript
-* Frameworks: Django, LibGDX and a little experience with Node
-* Database: SQLite
+* Programming languages: PHP, Python, Java, C, Javascript
+* Frameworks: Django, LibGDX, Laravel, CodeIgniter
+* Database: SQLite, MySQL
 * Agile methodology, Continuous integration and other software engineering methologies
 
 ## Academic Projects 🎓
@@ -18,6 +18,13 @@ Let me introduce myself, my name is Giovanni Gama and I am a Computer Engineerin
 - **[Crazychef:](https://github.com/F0rJava/MC322-Colab/tree/main/Crazychef)** A collaborative project for the Object-Oriented Programming course, this interactive game was crafted in Java with the LibGDX framework. It delves into intricate concepts of object-oriented programming, offering an enjoyable and immersive experience.
 - **[Public Safety Web Application:](https://github.com/MC426-2s2023/MC426)** As a collaborative endeavor for the Software Engineering discipline, we utilized the Django framework to develop a web application. This project embraced various software engineering methodologies, including the agile method. The application features a dynamic heat map, which dynamically adjusts based on user-reported incidents such as thefts and homicides, addressing critical public safety issues. The incorporation of agile practices facilitated iterative development cycles, allowing for quick adaptation to evolving requirements. Additionally, the collaborative nature of the project encouraged diverse inputs and perspectives, enriching both the development process and the final product.
 - **Scientific Research in Self Sovereign Identities:** During the period of 2022-2023, I conducted research in the field of information security, specifically in the area of identity management, focusing on studying the cost-benefit relationship of authentication via Self-Sovereign Digital Identities. Through this research, we established contact with the Identity Management Laboratory (GIdLab) at RNP. Additionally, an article was submitted and accepted for presentation at the Brazilian Symposium on Information Security and Computer Systems (SBSeg) 2023, which took place in Juiz de Fora - MG.
+
+## Working experience 🧑‍💼
+### Agroboard
+#### Developer Intern | May, 2024 - Present
+- Ensure the maintenance of legacy code and implement efficiency improvements while collaborating with the support team to resolve bugs.
+- Contribute to the development of a feature with hexagonal architecture by integrating external and internal APIs, ensuring accurate interpretation and display on the company’s website.
+- Participate in data integration processes with partner companies, utilizing schedulers to streamline data workflows.
 
 ## Learning & Interests 📖
 * **Software Engineering:** I'm deeply passionate about software engineering and persistently refining my expertise in the field. My primary goal is to grasp and implement industry-leading methodologies to craft resilient, scalable, and streamlined software solutions.
